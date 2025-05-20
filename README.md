@@ -111,3 +111,7 @@ This will load your trained model and tokenizer, run inference on the test data,
 
 Feel free to experiment with the hyperparameters and explore the codebase\!
 
+
+If there are any questions or suggestions feel free to contact:
+ericjiang0318@ucla.edu
+
