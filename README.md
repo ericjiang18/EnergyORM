@@ -11,7 +11,7 @@ Once trained, the EORM can be deployed to:
 * **Act as a reward signal:** The energy scores can be used to further fine-tune generator models.
 * **Improve classification/selection tasks:** By providing a quantitative measure of CoT quality.
 
-The model architecture involves tokenizing the input (question + CoT + answer) and then processing it through a Transformer-based EBM to output a single energy value.
+The model architecture involves tokenizing the input ([cls] + question + [sep] + answer) and then processing it through a Transformer-based EBM to output a single energy value.
 
 ![Model Process Flow](./figure/image_flow.png)
 
