@@ -36,8 +36,6 @@ First, create a new Python environment (e.g., using `conda` or `venv`). Then, in
 pip install torch>=2.0.0 transformers>=4.30.0 tqdm>=4.60.0
 ````
 
-*(Ensure you have `pip` installed and your environment is activated.)*
-
 ### 2\. Prepare the Dataset Directory
 
 Create a dedicated folder to store the demo datasets:
