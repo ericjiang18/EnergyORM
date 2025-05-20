@@ -1,4 +1,4 @@
-# Energy Outcome Reward Model (EORM) - Demo
+# Energy Outcome Reward Model (EORM) 
 
 ## Overview
 
