@@ -107,9 +107,25 @@ This will load your trained model and tokenizer, run inference on the test data,
 
 -----
 
-Feel free to experiment with the hyperparameters and explore the codebase\!
+## Citation
 
+If you find this work useful, please cite our paper:
+
+```bibtex
+@misc{jiang2025learningtorank,
+      title={Learning to Rank Chain-of-Thought: An Energy-Based Approach with Outcome Supervision}, 
+      author={Eric Hanchen Jiang and Haozheng Luo and Shengyuan Pang and Xiaomin Li and Zhenting Qi and Hengli Li and Cheng-Fu Yang and Zongyu Lin and Xinfeng Li and Hao Xu and Kai-Wei Chang and Ying Nian Wu},
+      year={2025},
+      eprint={2505.14999},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2505.14999}, 
+}
+```
+
+-----
+
+Feel free to experiment with the hyperparameters and explore the codebase\!
 
 If there are any questions or suggestions feel free to contact:
 ericjiang0318@ucla.edu
-
