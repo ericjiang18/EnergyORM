@@ -125,6 +125,12 @@ If you find this work useful, please cite our paper:
 
 -----
 
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_GITHUB_USER/YOUR_REPOSITORY_NAME&type=Date)](https://star-history.com/#YOUR_GITHUB_USER/YOUR_REPOSITORY_NAME&Date)
+
+-----
 Feel free to experiment with the hyperparameters and explore the codebase\!
 
 If there are any questions or suggestions feel free to contact:
