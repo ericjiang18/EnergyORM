@@ -104,6 +104,7 @@ python step2_test_result.py \
 ```
 
 This will load your trained model and tokenizer, run inference on the test data, and output evaluation metrics.
+Feel free to experiment with the hyperparameters and explore the codebase\!
 
 -----
 
@@ -131,7 +132,7 @@ If you find this work useful, please cite our paper:
 [![Star History Chart](https://api.star-history.com/svg?repos=ericjiang18/EnergyORM&type=Date)](https://star-history.com/#ericjiang18/EnergyORM&Date)
 
 -----
-Feel free to experiment with the hyperparameters and explore the codebase\!
+## Contact
 
 If there are any questions or suggestions feel free to contact:
 ericjiang0318@ucla.edu
