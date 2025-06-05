@@ -126,12 +126,6 @@ If you find this work useful, please cite our paper:
 
 -----
 
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ericjiang18/EnergyORM&type=Date)](https://star-history.com/#ericjiang18/EnergyORM&Date)
-
------
 ## Contact
 
 If there are any questions or suggestions feel free to contact:
